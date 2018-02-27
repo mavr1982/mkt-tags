@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Farmasierra</name>
+    <version>1.0.0</version>
+    <stability>alpha</stability>
+    <license>GPL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Google dynamic remarketing tags module for Farmasierra.</summary>
+    <description>Google dynamic remarketing tags module for Farmasierra. Developed by TOBEIT.</description>
+    <notes>Google dynamic remarketing tags module for Farmasierra. Developed by TOBEIT.</notes>
+    <authors><author><name>mavr1982</name><user>MAG003850326</user><email>miguelangelvr@gmail.com</email></author></authors>
+    <date>2017-01-12</date>
+    <time>18:41:13</time>
+    <contents><target name="magecommunity"><dir name="Tobeit"><dir name="Gdrt"><dir name="Block"><file name="Script.php" hash="e6e4228104113d05870a8e84137baa58"/></dir><dir name="Helper"><file name="Data.php" hash="7d9ad41c362a9c9d161d470e7f1ce351"/></dir><dir name="Model"><dir name="Adminhtml"><dir name="System"><dir name="Config"><dir name="Source"><file name="Useasid.php" hash="9dcf764c0fa32e433a4f613626e32411"/></dir></dir></dir></dir><file name="Observer.php" hash="a6b6de29af6d2cb3854c634506ebd343"/></dir><dir name="etc"><file name="adminhtml.xml" hash="49ed7a771d0607f791199511048d1cde"/><file name="config.xml" hash="cf9cf2a3210a10ac11efa726fa501e5d"/><file name="system.xml" hash="0ee080141f5b60728273b60484dda648"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Tobeit_Gdrt.xml" hash="1b20eb4040ae655f1f6986877d298e98"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.5.0</min><max>8.0.0</max></php></required></dependencies>
+</package>
